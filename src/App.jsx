@@ -53,7 +53,6 @@ function App() {
           alt="corner"
           className="absolute bottom-0 right-0 w-[45%] md:w-[30%]"
         />
-        <h1>header</h1>
         <div className="flex flex-col items-center justify-center h-full">
           <img src={txt1} className="w-1/2 md:w-1/4" alt="" />
           <p className="text-[5.7vw] md:text-[2vw] text-[#205940] border-b-2 border-[#40210f] font-bold">
